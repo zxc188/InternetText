@@ -4,4 +4,6 @@
 如需要更换mysql数据库，请使用https://github.com/zxc188/InternetText/blob/master/src/util/SQlUtil.java
 中注释的代码进行数据库链接
 
+
+使用请遵守apache license
 ![image](https://github.com/zxc188/InternetText/blob/master/apache.png)
